@@ -11,7 +11,13 @@
 - 💬 Ask me about ...
 -->
 - 📫 How to reach me: [twitter](https://twitter.com/NG_Programmers3) [YouTube](https://www.youtube.com/channel/UCJ-uyFTXsTEbI0GBQwTaeiA)
-- 😄 Pronouns: ...
+📫 How to reach me: <br>
+<!--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email]()
+-->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/NG_Programmers3)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [YouTube ](https://www.youtube.com/channel/UCJ-uyFTXsTEbI0GBQwTaeiA)
+
 <!--
 - ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?NGP-Team=YourUsername&repo=L20Y)
 -->
