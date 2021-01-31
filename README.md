@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: [twitter](https://twitter.com/NG_Programmers3) [YouTube](https://www.youtube.com/channel/UCJ-uyFTXsTEbI0GBQwTaeiA)
 📫 How to reach me: <br>
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email]()
