@@ -17,7 +17,7 @@
 -->
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+<!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 ![Twitter Follow](https://img.shields.io/twitter/follow/NG_Programmers3?color=%231da1f2&label=follow%20us&logo=twitter&style=for-the-badge)
 ## we are Team from middle east , Developer
 
