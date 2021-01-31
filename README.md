@@ -18,8 +18,7 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=NG_Programmers3)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/NG_Programmers3?color=%231da1f2&label=follow%20us&logo=twitter&style=for-the-badge)
 ## we are Team from middle east , Developer
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
