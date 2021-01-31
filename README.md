@@ -11,6 +11,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [twitter](https://twitter.com/NG_Programmers3) [YouTube](https://www.youtube.com/channel/UCJ-uyFTXsTEbI0GBQwTaeiA)
 - 😄 Pronouns: ...
-
+- ![counter](https://[YourEndpoint].m.pipedream.net)
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGP-Team)](https://github.com/anuraghazra/github-readme-stats)
 
