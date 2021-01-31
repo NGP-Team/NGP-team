@@ -35,6 +35,7 @@
 
 [<img align="left" alt="codeSTACKr | YouTube" width="30px" src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png"/>][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/000000/twitter--v1.png"/>][twitter]
+[<img align="left" alt="codeSTACKr | telegram" width="30px"  src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][telgram]
 
 <br />
 
