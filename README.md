@@ -73,7 +73,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGP-Team)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="NGP-Team's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NGP-Team&show_icons=true&hide_border=true" />
 
   
 
